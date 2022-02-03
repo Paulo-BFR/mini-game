@@ -1,4 +1,5 @@
 .card-game {
+  position: relative;
   width: 130px;
   height: 160px;
   background-color: var(--color-alura);
